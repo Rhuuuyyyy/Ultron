@@ -1,6 +1,7 @@
 # Ultron
 
 Computer Science | PUC-PR
+A project that aims to create a peculiar and dangerous artificial intelligence.
 
 
 ## How to run this code: 
@@ -8,26 +9,27 @@ Computer Science | PUC-PR
 .
 ```
 
-<img src="https://github.com/Rhuuuyyyy/Ultron/blob/main/images/ultron.png" alt="Texto Alternativo">
+# Visual
+<img src="https://github.com/Rhuuuyyyy/Ultron/blob/main/images/ultron.png" alt="Visual">
 
 ## Steps
 
 ### Project Base 
 
-- [x] Set
-- [x] Set 
-- [x] Set 
-- [x] Set 
+- [ ] Wich API for implement the IA.
+- [ ] Wich API for implement voice.
+- [ ] analyze the possibility of transferring this consciousness to a physical body
 
 ### Front-end 
 
-- [x] Set 
-- [x] Visual
+- [ ] Improve the appearance of AI.
+- [ ] Define the look of the program.
 
 ### Back-end 
 
-- [x] Configure 
+- [ ] Implement IA in the aplication.
+- [ ] Implement voice.
 
 ### Document 
 
-- [x] Finish 
+- [ ] Finish 
